@@ -241,8 +241,9 @@ nav a:focus {
     background: #fff;
 }
 .banner{
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(../images/kommi.jpg) no-repeat center top;
     background-size: cover;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -924,7 +925,7 @@ text-align:center;
 }
 /*--our-story--*/
 .banner.two {
-    background: url(../images/banner2.jpg) no-repeat center top;
+    background: url(../images/kommi.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
