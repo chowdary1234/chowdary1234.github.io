@@ -2268,7 +2268,7 @@ ul.bottom i {
 	}
 	.groom, .bride {
 		padding: 1em 0em;
-		width: 99%;
+		width: 35%;
 	}
 	.couple h5 {
 		font-size:1.2em;
@@ -2294,7 +2294,7 @@ ul.bottom i {
 @media (max-width:568px){
 	.groom, .bride {
 		padding: 1em 0em;
-		width: 93%;
+		width: 35%;
 	}.post {
     width: 80px;
     height: 80px;
@@ -2475,7 +2475,7 @@ ul.bottom i {
 	}
 	.groom, .bride {
 		padding: 1em 0em;
-		width: 65.5%;
+		width: 35.5%;
 	}
 	.welcome-top {
 		padding: 2em 0 2em 8em;
@@ -2786,7 +2786,7 @@ ul.bottom i {
 	}
 	.groom, .bride {
 		padding: 0.5em 0em;
-		width: 48.55%;
+		width: 35.55%;
 	}
 	.couple h5 {
 		font-size: 1em;
@@ -3014,7 +3014,7 @@ ul.bottom i {
 	}
 	.groom, .bride {
 		padding: 0.5em 0em;
-		width: 48.55%;
+		width: 35.55%;
 	}
 	.couple h5 {
 		font-size: 1em;
@@ -3242,7 +3242,7 @@ ul.bottom i {
 	}
 	.groom, .bride {
 		padding: 0.5em 0em;
-		width: 48.55%;
+		width: 35.55%;
 	}
 	.couple h5 {
 		font-size: 1em;
